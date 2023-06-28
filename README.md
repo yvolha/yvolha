@@ -5,7 +5,25 @@ Frontend (Fullstack-in-the-making) Developer
 
 ***
 ### ✨ My projects ✨ 
+⚡ https://yvolha-online-library.netlify.app (with teammates) 
+*the backend hosting is kinda slow for this one, but I promise it will load 😉
+Vanilla TypeScript, SCSS, JS Classes, Webpack, REST API, External libraries (Swiper.JS, Choices.JS и Anime.JS)
 
+⚡ https://yvolha-reactapp.netlify.app
+React, Typescript, Vite, REST API, React Hook Forms, Functional Components, Unit Tests/Jest, E2E Tests/Cypress.
+
+⚡ https://yvolha-html-css-layout.netlify.app
+Layout design based on Figma; HTML, CSS, basic JavaScript.
+
+⚡ https://yvolha-graphqlapp.netlify.app (with teammates)
+React, Firebase integration, GraphQL, Vite.
+
+⚡ https://yvolha-songbird.netlify.app
+
+⚡ 
+
+⚡ https://yvolha-gem-puzzle.netlify.app
+Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
 *** 
 ### ✨ My skills ✨ 
 ⚡ JavaScript & TypeScript
