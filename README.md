@@ -2,6 +2,10 @@
 ***
 ### Volha Yakauleva ###
 Frontend (Fullstack-in-the-making) Developer
+
+***
+### ✨ My projects ✨ 
+
 *** 
 ### ✨ My skills ✨ 
 ⚡ JavaScript & TypeScript
@@ -20,11 +24,9 @@ Frontend (Fullstack-in-the-making) Developer
 
 ⚡ Webpack & Vite
 
-⚡ Fluent English and Advanced Spanish
+⚡ Fluent English & Advanced Spanish & Native Russian
 
 ⚡ ...and many more 😉
-***
-### ✨ My projects ✨ 
 
 <!--
 **yvolha/yvolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
