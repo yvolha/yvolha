@@ -6,24 +6,34 @@ Frontend (Fullstack-in-the-making) Developer
 ***
 ### ✨ My projects ✨ 
 ⚡ https://yvolha-online-library.netlify.app (with teammates) 
+
 *the backend hosting is kinda slow for this one, but I promise it will load 😉
+
 Vanilla TypeScript, SCSS, JS Classes, Webpack, REST API, External libraries (Swiper.JS, Choices.JS и Anime.JS)
 
 ⚡ https://yvolha-reactapp.netlify.app
+
 React, Typescript, Vite, REST API, React Hook Forms, Functional Components, Unit Tests/Jest, E2E Tests/Cypress.
 
 ⚡ https://yvolha-html-css-layout.netlify.app
+
 Layout design based on Figma; HTML, CSS, basic JavaScript.
 
 ⚡ https://yvolha-graphqlapp.netlify.app (with teammates)
+
 React, Firebase integration, GraphQL, Vite.
+
+⚡ https://yvolha-online-store.netlify.app (with a teammate)
+
+Though the design may look a bit old-fashioned, there's still a bunch of intricate Vanilla JS code inside this beauty.
 
 ⚡ https://yvolha-songbird.netlify.app
 
-⚡ 
+Let's see if you're a good ornithologist, to be determined by how many bird voices you'll recognize in this quiz.
 
 ⚡ https://yvolha-gem-puzzle.netlify.app
 Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
+
 *** 
 ### ✨ My skills ✨ 
 ⚡ JavaScript & TypeScript
@@ -46,17 +56,4 @@ Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
 
 ⚡ ...and many more 😉
 
-<!--
-**yvolha/yvolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
