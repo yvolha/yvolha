@@ -1,7 +1,5 @@
-### Hi there and welcome to my page ![hi](https://github.com/yvolha/yvolha/assets/112762462/382dbc72-9649-4909-a097-e43992b7a02e) 
-***
 ### Volha Yakauleva ###
-Frontend (Fullstack-in-the-making) Developer
+Frontend (Fullstack-in-the-Making) Developer ![hi](https://github.com/yvolha/yvolha/assets/112762462/382dbc72-9649-4909-a097-e43992b7a02e) 
 
 ***
 ### ✨ My projects ✨ 
@@ -32,6 +30,7 @@ Though the design may look a bit old-fashioned, there's still a bunch of intrica
 Let's see if you're a good ornithologist, to be determined by how many bird voices you'll recognize in this quiz.
 
 ⚡ https://yvolha-gem-puzzle.netlify.app
+
 Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
 
 *** 
