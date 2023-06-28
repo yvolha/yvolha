@@ -1,5 +1,6 @@
+![hi](https://github.com/yvolha/yvolha/assets/112762462/382dbc72-9649-4909-a097-e43992b7a02e) 
 ### Volha Yakauleva ###
-Frontend (Fullstack-in-the-Making) Developer ![hi](https://github.com/yvolha/yvolha/assets/112762462/382dbc72-9649-4909-a097-e43992b7a02e) 
+Frontend (Fullstack-in-the-Making) Developer 
 
 ***
 ### ✨ My projects ✨ 
