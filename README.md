@@ -5,14 +5,23 @@ Frontend (Fullstack-in-the-making) Developer
 *** 
 ### ✨ My skills ✨ 
 ⚡ JavaScript & TypeScript
+
 ⚡ React & Redux
+
 ⚡ HTML & CSS & SCSS
+
 ⚡ REST & GraphQL
+
 ⚡ Git
+
 ⚡ Unit Tests/Jest & E2E Tests/Cypress
+
 ⚡ Agile & Jira
+
 ⚡ Webpack & Vite
+
 ⚡ Fluent English and Advanced Spanish
+
 ⚡ ...and many more 😉
 ***
 ### ✨ My projects ✨ 
