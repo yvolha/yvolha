@@ -8,11 +8,11 @@ Frontend (Fullstack-in-the-Making) Developer
 
 *the backend hosting is kinda slow for this one, but I promise it will load 😉
 
-Vanilla TypeScript, SCSS, JS Classes, Webpack, REST API, External libraries (Swiper.JS, Choices.JS и Anime.JS)
+Vanilla TypeScript, SCSS, Classes, Webpack, REST API, External libraries (Swiper.JS, Choices.JS и Anime.JS).
 
 ⚡ https://yvolha-reactapp.netlify.app
 
-React, Typescript, Vite, REST API, React Hook Forms, Functional Components, Unit Tests/Jest, E2E Tests/Cypress.
+React, Typescript, Vite, REST API, React Hook Form, Functional Components, Unit Tests/Jest, E2E Tests/Cypress.
 
 ⚡ https://yvolha-html-css-layout.netlify.app
 
