@@ -1,6 +1,6 @@
 ![hi](https://github.com/yvolha/yvolha/assets/112762462/382dbc72-9649-4909-a097-e43992b7a02e) 
 ### Volha Yakauleva ###
-Frontend (Fullstack-in-the-Making) Developer 
+Frontend (with Fullstack undertones) Developer 
 
 ***
 ### ✨ My projects ✨ 
@@ -39,6 +39,10 @@ Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
 ⚡ JavaScript & TypeScript
 
 ⚡ React & Redux
+
+⚡ Angular
+
+⚡ NodeJS
 
 ⚡ HTML & CSS & SCSS
 
