@@ -60,4 +60,3 @@ Play this Gem Puzzle if you want to have some fun - developed by me as well 😄
 
 ⚡ ...and many more 😉
 
-
