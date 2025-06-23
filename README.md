@@ -4,7 +4,7 @@
 Frontend (with Fullstack undertones) Developer 
 
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvolha&layout=compact&theme=vue)](https://github.com/yvolha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvolha&layout=donut&theme=vue)](https://github.com/yvolha/github-readme-stats)
 
 
 ### ✨ My projects ✨ 
